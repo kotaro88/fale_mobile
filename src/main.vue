@@ -8,6 +8,7 @@
         <f7-view url="/" :main="true" class="ios-edges"></f7-view>
     </f7-app>
 </template>
+
 <script>
 // Import Routes...
 import routes from './routes.js'
